@@ -18,6 +18,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate custom profile stats
+        run: node .github/scripts/generate-profile-stats.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:

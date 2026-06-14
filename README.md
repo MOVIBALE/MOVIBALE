@@ -70,9 +70,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MOVIBALE&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MOVIBALE&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=1F2328&icon_color=FF2E88" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MOVIBALE&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
+    <img height="165" alt="GitHub stats including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MOVIBALE&theme=tokyonight&hide_border=true&background=00000000&stroke=00F5FF&ring=FF2E88&fire=FF2E88&currStreakLabel=00F5FF" />
