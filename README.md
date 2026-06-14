@@ -41,49 +41,28 @@
 
 <p align="center">
   <a href="https://github.com/lumina-layer-studio/Lumina-Layers">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=default&bg_color=00000000&hide_border=true&title_color=7C3AED&text_color=1F2328&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="Lumina-Layers" src="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
-  </a>
-  <a href="https://github.com/MOVIBALE/Batch-image-to-video-conversion">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-image-to-video-conversion&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-image-to-video-conversion&show_owner=false&theme=default&bg_color=00000000&hide_border=true&title_color=7C3AED&text_color=1F2328&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="Batch-image-to-video-conversion" src="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-image-to-video-conversion&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
+    <img width="860" alt="Lumina-Layers project card" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/project-lumina.svg" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/MOVIBALE/Batch-image-to-video-conversion">
+    <img width="420" alt="Batch image-to-video project card" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/project-batch-video.svg" />
+  </a>
   <a href="https://github.com/MOVIBALE/Batch-cutout">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-cutout&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-cutout&show_owner=false&theme=default&bg_color=00000000&hide_border=true&title_color=7C3AED&text_color=1F2328&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-      <img alt="Batch-cutout" src="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-cutout&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
-    </picture>
+    <img width="420" alt="Batch-cutout project card" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/project-batch-cutout.svg" />
   </a>
 </p>
 
 <h3 align="center">Stats | 数据</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
-    <img height="165" alt="GitHub stats including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MOVIBALE&theme=tokyonight&hide_border=true&background=00000000&stroke=00F5FF&ring=FF2E88&fire=FF2E88&currStreakLabel=00F5FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MOVIBALE&theme=default&hide_border=true&background=FFFFFF00&stroke=7C3AED&ring=FF2E88&fire=FF2E88&currStreakLabel=7C3AED" />
-    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com?user=MOVIBALE&theme=tokyonight&hide_border=true&background=00000000&stroke=00F5FF&ring=FF2E88&fire=FF2E88&currStreakLabel=00F5FF" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOVIBALE&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E6EDF3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOVIBALE&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=1F2328" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOVIBALE&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=E6EDF3" />
-  </picture>
+  <img width="420" alt="GitHub stats including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
+  <img width="420" alt="GitHub streak" src="https://streak-stats.demolab.com?user=MOVIBALE&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF2E88&fire=FF2E88&currStreakLabel=00F5FF" />
+</p>
+
+<p align="center">
+  <img width="860" alt="Most used languages including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-languages.svg" />
 </p>
 
 <h3 align="center">Activity | 活跃度</h3>
