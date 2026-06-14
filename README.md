@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      alt="Typing intro"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=Python+automation+for+boring+workflows;Image+%26+video+tools+with+clean+UX;Building+small+things+that+actually+ship"
+      alt="灌注大胖肥猫谢谢喵"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F5FF&center=true&vCenter=true&width=780&lines=%E7%81%8C%E6%B3%A8%E5%A4%A7%E8%83%96%E8%82%A5%E7%8C%AB%E8%B0%A2%E8%B0%A2%E5%96%B5"
     />
   </a>
 </p>
