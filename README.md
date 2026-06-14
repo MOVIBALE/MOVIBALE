@@ -32,11 +32,21 @@
   <a href="https://github.com/MOVIBALE?tab=stars">
     <img src="https://img.shields.io/badge/Stars-Curated-7C3AED?style=for-the-badge&logo=github&labelColor=111827" alt="Stars" />
   </a>
+  <a href="https://github.com/lumina-layer-studio/Lumina-Layers">
+    <img src="https://img.shields.io/github/stars/lumina-layer-studio/Lumina-Layers?style=for-the-badge&logo=github&label=Lumina-Layers&color=FF2E88&labelColor=111827" alt="Lumina-Layers stars" />
+  </a>
 </p>
 
 <h3 align="center">Featured Projects | 精选项目</h3>
 
 <p align="center">
+  <a href="https://github.com/lumina-layer-studio/Lumina-Layers">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=default&bg_color=00000000&hide_border=true&title_color=7C3AED&text_color=1F2328&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
+      <img alt="Lumina-Layers" src="https://github-readme-stats.vercel.app/api/pin/?username=lumina-layer-studio&repo=Lumina-Layers&show_owner=true&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
+    </picture>
+  </a>
   <a href="https://github.com/MOVIBALE/Batch-image-to-video-conversion">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-image-to-video-conversion&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
@@ -44,6 +54,9 @@
       <img alt="Batch-image-to-video-conversion" src="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-image-to-video-conversion&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
     </picture>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MOVIBALE/Batch-cutout">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MOVIBALE&repo=Batch-cutout&show_owner=false&theme=radical&bg_color=00000000&hide_border=true&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2E88&description_lines_count=2&card_width=420&cache_seconds=21600" />
