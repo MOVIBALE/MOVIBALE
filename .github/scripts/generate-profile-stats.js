@@ -14,24 +14,6 @@ const featuredRepos = [
     eyebrow: "FLAGSHIP PROJECT",
     displayName: "lumina-layer-studio/Lumina-Layers",
   },
-  {
-    owner: "MOVIBALE",
-    name: "Batch-image-to-video-conversion",
-    output: "project-batch-video.svg",
-    width: 420,
-    height: 152,
-    eyebrow: "PYTHON TOOL",
-    displayName: "Batch image-to-video",
-  },
-  {
-    owner: "MOVIBALE",
-    name: "Batch-cutout",
-    output: "project-batch-cutout.svg",
-    width: 420,
-    height: 152,
-    eyebrow: "PYTHON TOOL",
-    displayName: "Batch-cutout",
-  },
 ];
 
 if (!token) {
@@ -234,11 +216,10 @@ function renderStatsSvg(stats) {
   <text x="28" y="33" class="smallTitle">MOVIBALE Stats</text>
   <text x="28" y="53" class="muted">Including Lumina-Layers</text>
   ${rowMarkup}
-  <circle cx="319" cy="88" r="45" stroke="#30363D" stroke-width="8" />
-  <circle cx="319" cy="88" r="45" stroke="url(#accent)" stroke-width="8" stroke-linecap="round" stroke-dasharray="235 283" transform="rotate(-90 319 88)" />
-  <text x="319" y="82" class="big" text-anchor="middle">${escapeXml(formatNumber(stats.totalStars))}</text>
-  <text x="319" y="112" class="eyebrow" text-anchor="middle">TOTAL STARS</text>
-  <text x="319" y="139" class="muted" text-anchor="middle">Updated ${escapeXml(stats.updatedAt)}</text>`;
+  <rect x="245" y="52" width="148" height="96" rx="20" fill="#161B22" stroke="url(#accent)" stroke-width="1.2" />
+  <text x="319" y="88" class="big" text-anchor="middle" dominant-baseline="middle">${escapeXml(formatNumber(stats.totalStars))}</text>
+  <text x="319" y="124" class="eyebrow" text-anchor="middle">TOTAL STARS</text>
+  <text x="319" y="160" class="muted" text-anchor="middle">Updated ${escapeXml(stats.updatedAt)}</text>`;
 
   return svgBase(420, 180, body);
 }

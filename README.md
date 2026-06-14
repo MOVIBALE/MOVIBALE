@@ -45,15 +45,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MOVIBALE/Batch-image-to-video-conversion">
-    <img width="420" alt="Batch image-to-video project card" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/project-batch-video.svg" />
-  </a>
-  <a href="https://github.com/MOVIBALE/Batch-cutout">
-    <img width="420" alt="Batch-cutout project card" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/project-batch-cutout.svg" />
-  </a>
-</p>
-
 <h3 align="center">Stats | 数据</h3>
 
 <p align="center">
