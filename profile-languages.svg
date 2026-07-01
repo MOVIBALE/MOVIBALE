@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860" height="160" viewBox="0 0 860 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F5FF" />
+      <stop offset="52%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#FF2E88" />
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    .card { fill: #0D1117; stroke: url(#accent); stroke-width: 1.2; }
+    .eyebrow { font: 700 11px 'Segoe UI', Ubuntu, Sans-Serif; letter-spacing: .08em; fill: #00F5FF; }
+    .title { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0F6FC; }
+    .smallTitle { font: 800 21px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0F6FC; }
+    .text { font: 500 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .muted { font: 500 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
+    .label { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
+    .value { font: 800 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0F6FC; }
+    .big { font: 900 45px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0F6FC; }
+    .chipText { font: 700 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #F0F6FC; }
+  </style>
+
+  <rect x="1" y="1" width="858" height="158" rx="18" class="card" />
+  <text x="28" y="38" class="title">Most Used Languages</text>
+  <text x="832" y="38" class="muted" text-anchor="end">Updated 2026-07-01</text>
+  <rect x="28" y="76" width="804" height="14" rx="7" fill="#30363D" />
+  <rect x="28" y="76" width="803.5478296436422" height="14" rx="7" fill="#3776AB" />
+  <rect x="831.5478296436422" y="76" width="2" height="14" rx="7" fill="#384D54" />
+  <circle cx="28" cy="117" r="6" fill="#3776AB" />
+  <text x="46" y="122" class="chipText">Python 99.9%</text>
+  <circle cx="293" cy="117" r="6" fill="#384D54" />
+  <text x="311" y="122" class="chipText">Dockerfile 0.1%</text>
+</svg>
