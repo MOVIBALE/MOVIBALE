@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" style="font-family:&#39;Segoe UI&#39;, Ubuntu, &#34;Helvetica Neue&#34;, Sans-Serif">
+<rect x="1" y="1" width="99.41176470588235%" height="99%" rx="5" ry="5" style="fill:#ffffff;stroke:#e4e2e2;stroke-width:1;stroke-opacity:1"/><text x="30" y="40" style="fill:#0366d6;font-size:22px">Top Languages by Repo</text>
+<g transform="translate(0,40)" style="fill:none"><g transform="translate(40,0)" style="fill:none">
+<rect y="18" width="14" height="14" style="fill:#3572a5;stroke:#ffffff;stroke-width:1px"/><text x="16.8" y="30" style="fill:#586069;font-size:14px">Python</text><rect y="43.2" width="14" height="14" style="fill:#f1e05a;stroke:#ffffff;stroke-width:1px"/><text x="16.8" y="55.2" style="fill:#586069;font-size:14px">JavaScript</text>
+</g><g transform="translate(230,80)" style="fill:none"><path d="M3.6739403974420544e-15,-60A60,60,0,1,1,-51.961524227066306,30.00000000000002L-30.310889132455348,17.50000000000001A35,35,0,1,0,2.143131898507865e-15,-35Z" style="fill:#3572a5;stroke:#ffffff;stroke-width:2px"/><path d="M-51.961524227066306,30.00000000000002A60,60,0,0,1,-1.1021821192326163e-14,-60L-6.429395695523595e-15,-35A35,35,0,0,0,-30.310889132455348,17.50000000000001Z" style="fill:#f1e05a;stroke:#ffffff;stroke-width:2px"/></g>
+</g>
+</svg>
