@@ -48,12 +48,24 @@
 <h3 align="center">Stats | 数据</h3>
 
 <p align="center">
-  <img width="420" alt="GitHub stats including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-stats.svg" />
-  <img width="420" alt="GitHub streak" src="https://streak-stats.demolab.com?user=MOVIBALE&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF2E88&fire=FF2E88&currStreakLabel=00F5FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/0-profile-details.svg" />
+    <img width="820" alt="MOVIBALE GitHub profile details" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/0-profile-details.svg" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="860" alt="Most used languages including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/output/profile-languages.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/3-stats.svg" />
+    <img width="400" alt="MOVIBALE GitHub stats including Lumina-Layers" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/3-stats.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/2-most-commit-language.svg" />
+    <img width="400" alt="MOVIBALE top languages by commit" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/2-most-commit-language.svg" />
+  </picture>
 </p>
 
 <h3 align="center">Activity | 活跃度</h3>
