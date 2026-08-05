@@ -49,22 +49,22 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/0-profile-details.svg" />
-    <img width="820" alt="MOVIBALE GitHub profile details" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/0-profile-details.svg" />
+    <img width="820" alt="MOVIBALE GitHub profile details" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/0-profile-details.svg" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/3-stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/3-stats.svg" />
-    <img width="400" alt="MOVIBALE GitHub stats including Lumina-Layers" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/3-stats.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/3-stats.svg" />
+    <img width="400" alt="MOVIBALE GitHub stats including Lumina-Layers" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/3-stats.svg" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github_dark/2-most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://online1.luminastudio.com.cn/profile-card/movibale/github/2-most-commit-language.svg" />
-    <img width="400" alt="MOVIBALE top languages by commit" src="https://online1.luminastudio.com.cn/profile-card/movibale/github/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github_dark/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/2-most-commit-language.svg" />
+    <img width="400" alt="MOVIBALE top languages by commit" src="https://raw.githubusercontent.com/MOVIBALE/MOVIBALE/profile-card/movibale/github/2-most-commit-language.svg" />
   </picture>
 </p>
 
